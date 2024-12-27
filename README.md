@@ -1,4 +1,3 @@
-[![](https://raw.githubusercontent.com/BramhanandaKL/BramhanandaKL/main/profile.gif)](https://www.bramhanandakl.com)<!-- Update with actual GIF and link -->
 
 <h1 align="center">Hi 👋, I'm Bramhananda K L</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
