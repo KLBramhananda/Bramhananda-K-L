@@ -19,7 +19,36 @@
 
 - 📫 How to reach me **bramhanandakl2002@gmail.com**
 
-- 📄 Know about my experiences [INTERNSHIP EXPERIENCE: Java Developer Intern | Cognifyz Technology’s | 3 Month | Bengaluru, India Project: Bank Account Management System | Java, Spring Boot, SQL, HTML, CSS, Git Jan 2024 – Mar 2024 • Developed a robust Bank Account Management System using Java, Web development, and MySQL, enhancing system reliability and performance. Demonstrated expertise in backend development, database management, and Programming.](INTERNSHIP EXPERIENCE: Java Developer Intern | Cognifyz Technology’s | 3 Month | Bengaluru, India Project: Bank Account Management System | Java, Spring Boot, SQL, HTML, CSS, Git Jan 2024 – Mar 2024 • Developed a robust Bank Account Management System using Java, Web development, and MySQL, enhancing system reliability and performance. Demonstrated expertise in backend development, database management, and Programming.)
+# Internship Experience
+
+## Company: Cognifyz Technologies  
+**Location:** Bengaluru, India  
+**Duration:** 3 Months  
+**Role:** Java Developer Intern  
+**Project:** Bank Account Management System  
+**Internship Period:** Jan 2024 – Mar 2024  
+
+---
+
+### Project Overview  
+As a **Java Developer Intern**, I contributed to the development of a robust **Bank Account Management System**, focusing on backend performance and efficient data management. The system was built using **Java**, **MySQL**, and web technologies to ensure reliability and scalability, delivering a seamless user experience.
+
+---
+
+### Key Responsibilities  
+- Developed and maintained core backend functionalities, implementing business logic and database interactions using **Java** and **JDBC**.  
+- Utilized **MySQL** for efficient data storage, retrieval, and optimization, ensuring high performance and reliability.  
+- Collaborated with the front-end team to design and implement user-friendly interface components using **HTML** and **CSS**.  
+- Contributed to system improvements, optimizing performance and ensuring scalability for future growth.
+
+---
+
+### Skills Gained  
+- **Programming:** Java, JDBC  
+- **Database Management:** SQL, MySQL  
+- **Web Development:** HTML, CSS  
+- **Version Control:** Git
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
